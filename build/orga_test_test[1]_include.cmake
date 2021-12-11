@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Konstantin/Documents/Code/orga_test/build/orga_test_test[1]_tests.cmake")
+  include("C:/Users/Konstantin/Documents/Code/orga_test/build/orga_test_test[1]_tests.cmake")
+else()
+  add_test(orga_test_test_NOT_BUILT orga_test_test_NOT_BUILT)
+endif()
