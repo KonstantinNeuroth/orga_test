@@ -1,4 +1,0 @@
-C:/Users/Konstantin/Documents/Code/orga_test/build/CMakeFiles/orga_test.dir
-C:/Users/Konstantin/Documents/Code/orga_test/build/CMakeFiles/orga_test_test.dir
-C:/Users/Konstantin/Documents/Code/orga_test/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Konstantin/Documents/Code/orga_test/build/CMakeFiles/ZERO_CHECK.dir
